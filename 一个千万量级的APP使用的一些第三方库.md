@@ -61,8 +61,6 @@ An Android custom ListView and ScrollView with pull to zoom-in.
 
 ![image](http://upload-images.jianshu.io/upload_images/1795742-769c4f53c0e6c331.gif?imageMogr2/auto-orient/strip)
 
-PullZoomView效果图.gif
-
 #### SwipeBackLayout
 An Android library that help you to build app with swipe back gesture.
 一个能帮我们轻松实现右滑退出当前页面功能的库，这个库也有使用在我们公司的项目中，不过花了不少时间在处理兼容性问题上(有时间的话会把填过的坑分享出来)。
