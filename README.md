@@ -1,6 +1,5 @@
 # 目录
 
-* [微信小程序](#微信小程序)
 * [Android](#android)
   * [Google](#google)
   * [Network](#network)
@@ -10,9 +9,7 @@
 * [算法](#算法)
 * [Open Books](#open-books)
 * [Git](#git)
-
-## 微信小程序
-* 资源汇总：https://github.com/keepfool/awesome-wechat-weapp
+* [微信小程序](#微信小程序)
 
 ## Android
 
@@ -44,3 +41,6 @@
 
 ## Git
 * [github/gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates
+
+## 微信小程序
+* 资源汇总：https://github.com/keepfool/awesome-wechat-weapp
