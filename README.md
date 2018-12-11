@@ -21,7 +21,7 @@
 * [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) A collection of free APIs
 
 ## 算法
-* [aosabook/500lines](https://github.com/aosabook/500lines) [中文翻译计划](https://github.com/HT524/500LineorLess_CN) 500行或更少的代码完成一个功能
+* [aosabook/500lines](https://github.com/aosabook/500lines) [(中文翻译计划)](https://github.com/HT524/500LineorLess_CN) 500行或更少的代码完成一个功能
 * [Blankj / awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) LeetCode of algorithms with java solution(updating).
 * [soulmachine/leetcode](https://github.com/soulmachine/leetcode) LeetCode题解，151道题完整版
 * [linyiqun/DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm) 数据挖掘18大算法实现以及其他相关经典DM算法
