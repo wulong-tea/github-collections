@@ -82,11 +82,11 @@
 * [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) Dockerfile to build a GitLab image for the Docker opensource container platform.
 
 ## Open Books
-* [Android 资源大全中文版](https://github.com/jobbole/awesome-android-cn)
-* [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)
-* [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)
-* [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
-* [Python资源大全中文版](https://github.com/jobbole/awesome-python-cn)
+* [jobbole/awesome-android-cn](https://github.com/jobbole/awesome-android-cn) Android 资源大全中文版
+* [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) Java资源大全中文版
+* [jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn) 机器学习资源大全中文版
+* [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) Go 资源大全中文版
+* [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) Python资源大全中文版
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 4w+ stars!  Computer Science Learning Notes.
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) (https://ebookfoundation.github.io/free-programming-books/) 
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
