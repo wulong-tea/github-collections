@@ -1,11 +1,12 @@
 # 汇总
 
 * [微信小程序](#微信小程序)
-* [Android](Android)
-  * [Google](Google)
+* [Android](#android)
+  * [Google](#google)
   * [换肤](#换肤)
-  * [Utils](Utils)
+  * [Utils](#utils)
 * [算法](#算法)
+* [Books](#books)
 
 ## 微信小程序
 * 资源汇总：https://github.com/keepfool/awesome-wechat-weapp
@@ -26,3 +27,6 @@
 
 ## 算法
 * [soulmachine / leetcode](https://github.com/soulmachine/leetcode) LeetCode题解，151道题完整版
+
+## Books
+* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) (https://ebookfoundation.github.io/free-programming-books/)
