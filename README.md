@@ -6,7 +6,7 @@
   * [换肤](#换肤)
   * [Utils](#utils)
 * [算法](#算法)
-* [Books](#books)
+* [Open Books](#open)
 
 ## 微信小程序
 * 资源汇总：https://github.com/keepfool/awesome-wechat-weapp
@@ -28,5 +28,5 @@
 ## 算法
 * [soulmachine / leetcode](https://github.com/soulmachine/leetcode) LeetCode题解，151道题完整版
 
-## Books
+## Open Books
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) (https://ebookfoundation.github.io/free-programming-books/)
