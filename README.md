@@ -5,8 +5,9 @@
   * [Google](#google)
   * [换肤](#换肤)
   * [Utils](#utils)
+  * [Crash & Performance](#crash-&-performance)
 * [算法](#算法)
-* [Open Books](#open)
+* [Open Books](#open-books)
 
 ## 微信小程序
 * 资源汇总：https://github.com/keepfool/awesome-wechat-weapp
@@ -24,6 +25,8 @@
 ### Utils
 * [Blankj / AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 * [wyouflf / xUtils3](https://github.com/wyouflf/xUtils3)
+### Crash & Performance
+* [android-notes / Cockroach](https://github.com/android-notes/Cockroach)
 
 ## 算法
 * [soulmachine / leetcode](https://github.com/soulmachine/leetcode) LeetCode题解，151道题完整版
