@@ -2,6 +2,7 @@
 
 * [免费接口](#免费接口)
 * [算法](#算法)
+* [人工智能](#人工智能)
 * [Android](#android)
   * [Google](#google)
   * [插件化框架](#插件化框架)
@@ -9,6 +10,8 @@
   * [换肤](#换肤)
   * [Utils](#utils)
   * [Crash & Performance](#crash--performance)
+  * [模拟器和远程调试](#模拟器和远程调试)
+* [容器](#容器)
 * [Open Books](#open-books)
 * [Git](#git)
 * [微信小程序](#微信小程序)
@@ -19,9 +22,15 @@
 
 ## 算法
 * [aosabook/500lines](https://github.com/aosabook/500lines) [中文翻译计划](https://github.com/HT524/500LineorLess_CN) 500行或更少的代码完成一个功能
+* [Blankj / awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) LeetCode of algorithms with java solution(updating).
 * [soulmachine/leetcode](https://github.com/soulmachine/leetcode) LeetCode题解，151道题完整版
 * [linyiqun/DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm) 数据挖掘18大算法实现以及其他相关经典DM算法
 * [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 算法可视化 https://algorithm-visualizer.org/
+
+## 人工智能
+* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone https://tensorflow.org
+* [tensorflow/playground](https://github.com/tensorflow/playground) Play with neural networks!
+* [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 
 ## Android
 
@@ -53,8 +62,14 @@
 * [square/leakcanary](https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
 * [android-notes/Cockroach](https://github.com/android-notes/Cockroach) 降低Android非必要crash
 
+### 模拟器和远程调试
+* [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 远程控制。Display and control your Android device.
+* [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) 远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接
+
+## 容器
+
 ## Open Books
-* [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 4w+ stars!
+* [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 4w+ stars!  Computer Science Learning Notes.
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) (https://ebookfoundation.github.io/free-programming-books/)
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) Android sdk 源码解析
@@ -63,4 +78,4 @@
 * [github/gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates
 
 ## 微信小程序
-* 资源汇总：https://github.com/keepfool/awesome-wechat-weapp
+* [keepfool/awesome-wechat-weapp](https://github.com/keepfool/awesome-wechat-weapp) 微信小程序开发资源汇总
