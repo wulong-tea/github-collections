@@ -11,6 +11,7 @@
   * [Utils](#utils)
   * [Crash & Performance](#crash--performance)
   * [模拟器和远程调试](#模拟器和远程调试)
+* [Python](#python)
 * [后端](#后端)
 * [容器](#容器)
 * [Open Books](#open-books)
@@ -68,16 +69,22 @@
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 远程控制。Display and control your Android device.
 * [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) 远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接
 
+## Python
+* [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等。
+
 ## 后端
-* [Spring Boot参考指南](http://blog.didispace.com/books/spring-boot-reference/) [(英文原版)](https://docs.spring.io/spring-boot/docs/1.4.1.RELEASE/reference/htmlsingle/)
+* Spring Boot参考指南：[[中文]](http://blog.didispace.com/books/spring-boot-reference/) [[英文]](https://docs.spring.io/spring-boot/docs/1.4.1.RELEASE/reference/htmlsingle/)
 * [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) Spring Boot教程 http://blog.didispace.com
 * [dyc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) Spring Cloud教程 http://blog.didispace.com
 
 ## 容器
+* [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) A curated list of Docker resources and projects.
+* [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) Dockerfile to build a GitLab image for the Docker opensource container platform.
 
 ## Open Books
+* [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 4w+ stars!  Computer Science Learning Notes.
-* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) (https://ebookfoundation.github.io/free-programming-books/)
+* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) (https://ebookfoundation.github.io/free-programming-books/) 
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) Android sdk 源码解析
 
