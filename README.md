@@ -33,8 +33,6 @@
 ## 人工智能
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone https://tensorflow.org
 * [tensorflow/playground](https://github.com/tensorflow/playground) Play with neural networks!
-* [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-* [莫烦机器学习相关教程](https://github.com/MorvanZhou) 莫烦机器学习相关教程 https://morvanzhou.github.io/tutorials
 
 ## Android
 
@@ -83,12 +81,14 @@
 * [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) Dockerfile to build a GitLab image for the Docker opensource container platform.
 
 ## Open Books
-* [伯乐在线](https://github.com/jobbole) [[Android 资源大全中文版]](https://github.com/jobbole/awesome-android-cn) [[Java资源大全中文版]](https://github.com/jobbole/awesome-java-cn) [[机器学习资源大全中文版]](https://github.com/jobbole/awesome-machine-learning-cn) [[Go 资源大全中文版]](https://github.com/jobbole/awesome-go-cn) [[Python资源大全中文版]](https://github.com/jobbole/awesome-python-cn)
+* [[伯乐在线]](https://github.com/jobbole)： [[Android 资源大全中文版]](https://github.com/jobbole/awesome-android-cn) [[Java资源大全中文版]](https://github.com/jobbole/awesome-java-cn) [[机器学习资源大全中文版]](https://github.com/jobbole/awesome-machine-learning-cn) [[Go 资源大全中文版]](https://github.com/jobbole/awesome-go-cn) [[Python资源大全中文版]](https://github.com/jobbole/awesome-python-cn)
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 4w+ stars!  Computer Science Learning Notes.
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) (https://ebookfoundation.github.io/free-programming-books/) 
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) Android sdk 源码解析
-* [exacity/deeplearningbook-chinese](Deep Learning中文版)
+* [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) Deep Learning中文版
+* [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+* [莫烦机器学习相关教程](https://github.com/MorvanZhou) 莫烦机器学习相关教程 https://morvanzhou.github.io/tutorials
 
 ## Git
 * [github/gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates
