@@ -25,6 +25,7 @@
 * [aosabook/500lines](https://github.com/aosabook/500lines) [(中文翻译计划)](https://github.com/HT524/500LineorLess_CN) 500行或更少的代码完成一个功能
 * [Blankj / awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) LeetCode of algorithms with java solution(updating).
 * [soulmachine/leetcode](https://github.com/soulmachine/leetcode) LeetCode题解，151道题完整版
+* [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
 * [linyiqun/DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm) 数据挖掘18大算法实现以及其他相关经典DM算法
 * [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 算法可视化 https://algorithm-visualizer.org/
 
@@ -68,7 +69,9 @@
 * [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) 远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接
 
 ## 后端
+* [Spring Boot参考指南](http://blog.didispace.com/books/spring-boot-reference/) [(英文原版)](https://docs.spring.io/spring-boot/docs/1.4.1.RELEASE/reference/htmlsingle/)
 * [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) Spring Boot教程 http://blog.didispace.com
+* [dyc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) Spring Cloud教程 http://blog.didispace.com
 
 ## 容器
 
