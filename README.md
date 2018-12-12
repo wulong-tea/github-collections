@@ -33,6 +33,7 @@
 ## 人工智能
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone https://tensorflow.org
 * [tensorflow/playground](https://github.com/tensorflow/playground) Play with neural networks!
+* [MindorksOpenSource/AndroidTensorFlowMachineLearningExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
 
 ## Android
 
