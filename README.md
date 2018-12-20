@@ -2,6 +2,7 @@
 
 * [免费接口](#免费接口)
 * [算法](#算法)
+* [设计模式](#设计模式)
 * [人工智能](#人工智能)
 * [Android](#android)
   * [Google](#google)
@@ -32,6 +33,11 @@
 * [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
 * [linyiqun/DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm) 数据挖掘18大算法实现以及其他相关经典DM算法
 * [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 算法可视化 https://algorithm-visualizer.org/
+* [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) All Algorithms implemented in Java.
+* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python.
+
+## 设计模式
+* [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) java设计模式 - Design patterns implemented in Java http://java-design-patterns.com
 
 ## 人工智能
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone https://tensorflow.org
