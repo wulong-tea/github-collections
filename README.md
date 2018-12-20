@@ -109,7 +109,7 @@
 * [莫烦机器学习相关教程](https://github.com/MorvanZhou) 莫烦机器学习相关教程 https://morvanzhou.github.io/tutorials
 * [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) 全领域面试题大全（英文）
-* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 https://github.com/Snailclimb/JavaGuide
+* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
 ## Git
 * [github/gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates
