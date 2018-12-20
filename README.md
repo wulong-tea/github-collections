@@ -11,7 +11,7 @@
   * [Utils](#utils)
   * [Crash & Performance](#crash--performance)
   * [模拟器和远程调试](#模拟器和远程调试)
-  * [构建](#构建)
+  * [构建与混淆](#构建与混淆)
 * [Python](#python)
 * [后端](#后端)
 * [容器](#容器)
@@ -70,7 +70,7 @@
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 远程控制。Display and control your Android device.
 * [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) 远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接
 
-### 构建
+### 构建与混淆
 * [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard) AndResGuard 是一个缩小 apk 体积和资源混淆的工具，它的工作原理和 Java Proguard 类似，但是只针对资源。
 * [mcxiaoke/packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) 下一代Android打包工具，100个渠道包只需要10秒钟 https://github.com/mcxiaoke
 * [KeepSafe/dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) A Gradle plugin to report the number of method references in your APK on every build.
