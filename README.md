@@ -5,6 +5,7 @@
 * [人工智能](#人工智能)
 * [Android](#android)
   * [Google](#google)
+  * [跨平台](#跨平台)
   * [插件化框架](#插件化框架)
   * [Network](#network)
   * [换肤](#换肤)
@@ -43,6 +44,9 @@
 * [Flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps.
 * [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Samples for Android Architecture Components.
 * [android-sunflower](https://github.com/googlesamples/android-sunflower) A gardening app illustrating Android development best practices with Android Jetpack.
+
+### 跨平台
+* [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ### 插件化框架
 * [alibaba/atlas](https://github.com/alibaba/atlas) A powerful Android Dynamic Component Framework.
