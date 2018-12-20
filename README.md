@@ -11,6 +11,7 @@
   * [Utils](#utils)
   * [Crash & Performance](#crash--performance)
   * [模拟器和远程调试](#模拟器和远程调试)
+  * [构建](#构建)
 * [Python](#python)
 * [后端](#后端)
 * [容器](#容器)
@@ -68,6 +69,11 @@
 ### 模拟器和远程调试
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 远程控制。Display and control your Android device.
 * [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) 远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接
+
+### 构建
+* [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard) AndResGuard 是一个缩小 apk 体积和资源混淆的工具，它的工作原理和 Java Proguard 类似，但是只针对资源。
+* [mcxiaoke/packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) 下一代Android打包工具，100个渠道包只需要10秒钟 https://github.com/mcxiaoke
+* [KeepSafe/dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) A Gradle plugin to report the number of method references in your APK on every build.
 
 ## Python
 * [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等。
