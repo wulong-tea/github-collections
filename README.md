@@ -25,7 +25,7 @@
 
 ## 算法
 * [aosabook/500lines](https://github.com/aosabook/500lines) [(中文翻译计划)](https://github.com/HT524/500LineorLess_CN) 500行或更少的代码完成一个功能
-* [Blankj / awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) LeetCode of algorithms with java solution(updating).
+* [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) LeetCode of algorithms with java solution(updating).
 * [soulmachine/leetcode](https://github.com/soulmachine/leetcode) LeetCode题解，151道题完整版
 * [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解LeetCode题目的思路
 * [linyiqun/DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm) 数据挖掘18大算法实现以及其他相关经典DM算法
@@ -89,7 +89,7 @@
 
 ## Open Books
 * [[伯乐在线]](https://github.com/jobbole)： [[Android 资源大全中文版]](https://github.com/jobbole/awesome-android-cn) [[Java资源大全中文版]](https://github.com/jobbole/awesome-java-cn) [[机器学习资源大全中文版]](https://github.com/jobbole/awesome-machine-learning-cn) [[Go 资源大全中文版]](https://github.com/jobbole/awesome-go-cn) [[Python资源大全中文版]](https://github.com/jobbole/awesome-python-cn)
-* [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 4w+ stars!  Computer Science Learning Notes.
+* [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 4w+ stars!  Computer Science Learning Notes（中文） https://cyc2018.github.io/CS-Notes
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) (https://ebookfoundation.github.io/free-programming-books/) 
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) Android sdk 源码解析
