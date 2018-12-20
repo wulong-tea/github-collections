@@ -19,6 +19,7 @@
 * [Open Books](#open-books)
 * [Git](#git)
 * [微信小程序](#微信小程序)
+* [工具](#工具)
 
 ## 免费接口
 * [toddmotto/public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. 
@@ -108,3 +109,6 @@
 
 ## 微信小程序
 * [keepfool/awesome-wechat-weapp](https://github.com/keepfool/awesome-wechat-weapp) 微信小程序开发资源汇总
+
+## 工具
+* [knsv/mermaid](https://github.com/knsv/mermaid) 在markdown里画UML，最后生成的是js代码。
