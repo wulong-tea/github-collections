@@ -55,8 +55,8 @@
 * [Tencent/mars](https://github.com/Tencent/mars) 腾讯mars. Mars is a cross-platform network component developed by WeChat.
 
 ### 换肤
-* [ximsfei/Android-skin-support](https://github.com/ximsfei/Android-skin-support) 
-* [Bilibili/MagicaSakura](https://github.com/Bilibili/MagicaSakura)
+* [ximsfei/Android-skin-support](https://github.com/ximsfei/Android-skin-support) 动态换肤框架。
+* [Bilibili/MagicaSakura](https://github.com/Bilibili/MagicaSakura) MagicaSakura 支持多主题和夜间模式，优点是切换主题时无需重建 Activity 而且自然流畅。
 
 ### Utils
 * [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
