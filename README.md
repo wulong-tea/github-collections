@@ -57,6 +57,7 @@
 * [dcloudio/uni-app](https://github.com/dcloudio/uni-app) 使用 Vue.js 开发跨平台应用的前端框架 http://uniapp.dcloud.io
 * [NervJS/taro](https://github.com/NervJS/taro) 京东开源，
 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用。 https://taro.js.org/ https://nervjs.github.io/taro/
+* [image_crop](https://github.com/VolodymyrLykhonis/image_crop) 在 iOS 和 Android 中都可以使用的裁剪图片的 Flutter 插件
 
 ### 插件化框架
 * [alibaba/atlas](https://github.com/alibaba/atlas) A powerful Android Dynamic Component Framework.
@@ -117,6 +118,7 @@
 
 ## Git
 * [github/gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates
+* [githug](https://github.com/Gazler/githug) 「Githug」被设计用来练习 Git 技能，它把平时遇到的场景设计成了 55 个关卡，我们可以通过 Git 命令来一一过关，就像玩游戏一样，解锁所有关卡。
 
 ## 微信小程序
 * [keepfool/awesome-wechat-weapp](https://github.com/keepfool/awesome-wechat-weapp) 微信小程序开发资源汇总
