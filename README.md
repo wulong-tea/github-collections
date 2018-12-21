@@ -129,3 +129,4 @@
 * [knsv/mermaid](https://github.com/knsv/mermaid) 在markdown里画UML，最后生成的是js代码。
 * [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) Big List of Naughty Strings （淘气字符串大列表）是一个持续更新的字符串列表，包括了那些在输入区域很可能就引发问题的字符串，由 Max Woolf 发起和维护。这个列表可用于自动或手工 QA 测试
 * [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) 一个在线nginx配置生成器。
+* [在线万能工具箱](https://www.toolfk.com/)
