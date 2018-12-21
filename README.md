@@ -54,6 +54,9 @@
 
 ### 跨平台
 * [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+* [dcloudio/uni-app](https://github.com/dcloudio/uni-app) 使用 Vue.js 开发跨平台应用的前端框架 http://uniapp.dcloud.io
+* [NervJS/taro](https://github.com/NervJS/taro) 京东开源，
+多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用。 https://taro.js.org/ https://nervjs.github.io/taro/
 
 ### 插件化框架
 * [alibaba/atlas](https://github.com/alibaba/atlas) A powerful Android Dynamic Component Framework.
