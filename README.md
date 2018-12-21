@@ -129,4 +129,4 @@
 * [knsv/mermaid](https://github.com/knsv/mermaid) 在markdown里画UML，最后生成的是js代码。
 * [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) Big List of Naughty Strings （淘气字符串大列表）是一个持续更新的字符串列表，包括了那些在输入区域很可能就引发问题的字符串，由 Max Woolf 发起和维护。这个列表可用于自动或手工 QA 测试
 * [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) 一个在线nginx配置生成器。
-* [在线万能工具箱](https://www.toolfk.com/)
+* [在线万能工具箱](https://www.toolfk.com/) [BarCode条形码在线生成][PHP混淆、加密、解密][PHP代码在线运行][Python代码在线运行][JavaScript在线工具箱][CSS在线工具箱][JSON在线工具箱][Linux常用命令大全][在线压力测试工具][在线文本比较工具][免费CDN加速服务][在线SQL转换工具][地图拾取坐标工具][QueryList采集器][JavaScript在线运行][YAML在线工具箱][HTTP模拟查询工具][HTML在线工具箱][Unixtime时间戳转换][Base64/URL/Native2Ascii转换][CSV转换工具箱][XML在线工具箱][WebSocket在线工具][Markdown 在线工具箱][Htaccess2nginx 转换][进制在线转换][在线加密工具箱][在线伪原创工具][在线APK反编译][在线网页截图工具][在线随机密码生成][在线生成二维码Qrcode][在线Crontab表达式生成][在线短网址生成][在线计算器工具][在线思维导图工具][在线数据库设计工具]
