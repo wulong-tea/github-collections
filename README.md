@@ -119,6 +119,8 @@
 ## Git
 * [github/gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates
 * [githug](https://github.com/Gazler/githug) 「Githug」被设计用来练习 Git 技能，它把平时遇到的场景设计成了 55 个关卡，我们可以通过 Git 命令来一一过关，就像玩游戏一样，解锁所有关卡。
+* [git-flight-rules](https://github.com/k88hudson/git-flight-rules/) 
+* [learnGitBranching](https://github.com/pcottle/learnGitBranching)
 
 ## 微信小程序
 * [keepfool/awesome-wechat-weapp](https://github.com/keepfool/awesome-wechat-weapp) 微信小程序开发资源汇总
