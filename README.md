@@ -103,6 +103,7 @@
 * [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) A curated list of Docker resources and projects.
 * [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) Dockerfile to build a GitLab image for the Docker opensource container platform.
 * [Wayne](https://github.com/Qihoo360/wayne) Wayne 是一个通用的、基于 Web 的 Kubernetes 多集群管理平台。通过可视化 Kubernetes 对象模板编辑的方式，降低业务接入成本， 拥有完整的权限管理系统，适应多租户场景，是一款适合企业级集群使用的发布平台。
+* [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) 
 
 ## Open Books
 * [[伯乐在线]](https://github.com/jobbole)： [[Android 资源大全中文版]](https://github.com/jobbole/awesome-android-cn) [[Java资源大全中文版]](https://github.com/jobbole/awesome-java-cn) [[机器学习资源大全中文版]](https://github.com/jobbole/awesome-machine-learning-cn) [[Go 资源大全中文版]](https://github.com/jobbole/awesome-go-cn) [[Python资源大全中文版]](https://github.com/jobbole/awesome-python-cn)
@@ -110,13 +111,12 @@
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) (https://ebookfoundation.github.io/free-programming-books/free-programming-books-zh.html) 
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) Android sdk 源码解析
-* [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) Deep Learning中文版
+* [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) Deep Learning中文版 https://exacity.github.io/deeplearningbook-chinese/
 * [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 * [莫烦机器学习相关教程](https://github.com/MorvanZhou) 莫烦机器学习相关教程 https://morvanzhou.github.io/tutorials
 * [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) 全领域面试题大全（英文）
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-* [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningbook-chinese/
 
 ## Git
 * [github/gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates
