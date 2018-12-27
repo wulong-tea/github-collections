@@ -12,7 +12,7 @@
   * [换肤](#换肤)
   * [Utils](#utils)
   * [Crash & Performance](#crash--performance)
-  * [模拟器和远程调试](#模拟器和远程调试)
+  * [调试](#调试)
   * [构建与混淆](#构建与混淆)
 * [Python](#python)
 * [后端](#后端)
@@ -82,9 +82,12 @@
 * [square/leakcanary](https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
 * [android-notes/Cockroach](https://github.com/android-notes/Cockroach) 降低Android非必要crash
 
-### 模拟器和远程调试
+### 调试
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 远程控制。Display and control your Android device.
 * [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) 远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接
+* [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 只需要添加一行 Gradle 依赖，就可以实时在网页上查看 SQLite 数据库和 SharedPreferences 了, 可以直接对数据进行增删改查。
+* [didi/DoraemonKit](https://github.com/didi/DoraemonKit) 这是一款功能齐全的客户端研发助手（同时支持 Android 和 iOS）。和 Trinea 的 DevTools 相比，这个工具不仅仅适合开发者使用，也适合设计师或者测试人员使用。
+* [ZhuoKeTeam/QPM](https://github.com/ZhuoKeTeam/QPM) 质量性能监控组件，方便查看当前 APP 的性能。
 
 ### 构建与混淆
 * [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard) AndResGuard 是一个缩小 apk 体积和资源混淆的工具，它的工作原理和 Java Proguard 类似，但是只针对资源。
