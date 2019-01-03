@@ -43,6 +43,7 @@
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone https://tensorflow.org
 * [tensorflow/playground](https://github.com/tensorflow/playground) Play with neural networks!
 * [MindorksOpenSource/AndroidTensorFlowMachineLearningExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
+* [GokuMohandas/practicalAI](https://github.com/GokuMohandas/practicalAI) [[中文]](https://github.com/MLEveryday/practicalAI-cn)
 
 ## Android
 
