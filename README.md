@@ -51,7 +51,11 @@
 * [googlesamples](https://github.com/googlesamples)
 * [Flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps.
 * [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Samples for Android Architecture Components.
+
+### Jetpack
 * [android-sunflower](https://github.com/googlesamples/android-sunflower) A gardening app illustrating Android development best practices with Android Jetpack.
+* [MindorksOpenSource/android-mvvm-architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture)
+* [goldze/MVVMHabit](https://github.com/goldze/MVVMHabit) 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。
 
 ### 跨平台
 * [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
