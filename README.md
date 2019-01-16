@@ -108,6 +108,7 @@
 * [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) Dockerfile to build a GitLab image for the Docker opensource container platform.
 * [Wayne](https://github.com/Qihoo360/wayne) Wayne 是一个通用的、基于 Web 的 Kubernetes 多集群管理平台。通过可视化 Kubernetes 对象模板编辑的方式，降低业务接入成本， 拥有完整的权限管理系统，适应多租户场景，是一款适合企业级集群使用的发布平台。
 * [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) 
+* [super-inspire/super-inspire-end](https://github.com/super-inspire/super-inspire-end) 在不到30s内得到一个干净的开箱即用的临时linux系统.(暂时提供Ubuntu, Centos, Alpine进行测试, 后续会提供更多) http://34.80.61.20:8888
 
 ## Open Books
 * [[伯乐在线]](https://github.com/jobbole)： [[Android 资源大全中文版]](https://github.com/jobbole/awesome-android-cn) [[Java资源大全中文版]](https://github.com/jobbole/awesome-java-cn) [[机器学习资源大全中文版]](https://github.com/jobbole/awesome-machine-learning-cn) [[Go 资源大全中文版]](https://github.com/jobbole/awesome-go-cn) [[Python资源大全中文版]](https://github.com/jobbole/awesome-python-cn)
