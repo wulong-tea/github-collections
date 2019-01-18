@@ -19,6 +19,7 @@
 * [后端](#后端)
 * [容器](#容器)
 * [Open Books](#open-books)
+* [资源汇总类](#资源汇总类)
 * [Git](#git)
 * [微信小程序](#微信小程序)
 * [工具](#工具)
@@ -130,6 +131,7 @@
 ## 资源汇总类
 * [[伯乐在线]](https://github.com/jobbole)： [[Android 资源大全中文版]](https://github.com/jobbole/awesome-android-cn) [[Java资源大全中文版]](https://github.com/jobbole/awesome-java-cn) [[机器学习资源大全中文版]](https://github.com/jobbole/awesome-machine-learning-cn) [[Go 资源大全中文版]](https://github.com/jobbole/awesome-go-cn) [[Python资源大全中文版]](https://github.com/jobbole/awesome-python-cn)
 * [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) 全领域面试题大全（英文）
+* [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) 记录日常开发中遇到的技术重点，难点，知识点总结，读书笔记，面试题，个人分享等。
 
 ## Git
 * [github/gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates
