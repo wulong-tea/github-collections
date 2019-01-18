@@ -117,7 +117,6 @@
 * [super-inspire/super-inspire-end](https://github.com/super-inspire/super-inspire-end) 在不到30s内得到一个干净的开箱即用的临时linux系统.(暂时提供Ubuntu, Centos, Alpine进行测试, 后续会提供更多) http://34.80.61.20:8888
 
 ## Open Books
-* [[伯乐在线]](https://github.com/jobbole)： [[Android 资源大全中文版]](https://github.com/jobbole/awesome-android-cn) [[Java资源大全中文版]](https://github.com/jobbole/awesome-java-cn) [[机器学习资源大全中文版]](https://github.com/jobbole/awesome-machine-learning-cn) [[Go 资源大全中文版]](https://github.com/jobbole/awesome-go-cn) [[Python资源大全中文版]](https://github.com/jobbole/awesome-python-cn)
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 4w+ stars!  Computer Science Learning Notes（中文） https://cyc2018.github.io/CS-Notes
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) (https://ebookfoundation.github.io/free-programming-books/free-programming-books-zh.html) 
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
@@ -126,8 +125,11 @@
 * [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 * [莫烦机器学习相关教程](https://github.com/MorvanZhou) 莫烦机器学习相关教程 https://morvanzhou.github.io/tutorials
 * [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-* [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) 全领域面试题大全（英文）
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+
+## 资源汇总类
+* [[伯乐在线]](https://github.com/jobbole)： [[Android 资源大全中文版]](https://github.com/jobbole/awesome-android-cn) [[Java资源大全中文版]](https://github.com/jobbole/awesome-java-cn) [[机器学习资源大全中文版]](https://github.com/jobbole/awesome-machine-learning-cn) [[Go 资源大全中文版]](https://github.com/jobbole/awesome-go-cn) [[Python资源大全中文版]](https://github.com/jobbole/awesome-python-cn)
+* [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) 全领域面试题大全（英文）
 
 ## Git
 * [github/gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates
