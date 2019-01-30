@@ -90,6 +90,9 @@
 * [square/leakcanary](https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
 * [android-notes/Cockroach](https://github.com/android-notes/Cockroach) 降低Android非必要crash
 
+### 待整理
+[CarGuo](https://github.com/CarGuo) GSYVideoPlayer, GSYGithubAppFlutter等
+
 ### 调试
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 远程控制。Display and control your Android device.
 * [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) 远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接
