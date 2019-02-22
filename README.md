@@ -159,3 +159,4 @@
 * [transloadit/uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 https://uppy.io
 * [futurice/android-best-practices](https://github.com/futurice/android-best-practices) Android best practices. Do's and Don'ts for Android development, by Futurice developers
 * [InflationX/Calligraphy](https://github.com/InflationX/Calligraphy) Custom fonts in Android the easy way...
+* [electron](https://github.com/electron/electron) 70K+ stars!!! Build cross-platform desktop apps with JavaScript, HTML, and CSS https://electronjs.org
