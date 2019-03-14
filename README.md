@@ -100,6 +100,7 @@
 * [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 只需要添加一行 Gradle 依赖，就可以实时在网页上查看 SQLite 数据库和 SharedPreferences 了, 可以直接对数据进行增删改查。
 * [didi/DoraemonKit](https://github.com/didi/DoraemonKit) 这是一款功能齐全的客户端研发助手（同时支持 Android 和 iOS）。和 Trinea 的 DevTools 相比，这个工具不仅仅适合开发者使用，也适合设计师或者测试人员使用。
 * [ZhuoKeTeam/QPM](https://github.com/ZhuoKeTeam/QPM) 质量性能监控组件，方便查看当前 APP 的性能。
+* [Airtest](https://github.com/AirtestProject/Airtest) 网易自动化测试工具
 
 ### 构建与混淆
 * [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard) AndResGuard 是一个缩小 apk 体积和资源混淆的工具，它的工作原理和 Java Proguard 类似，但是只针对资源。
