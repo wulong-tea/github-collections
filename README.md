@@ -162,3 +162,6 @@
 * [InflationX/Calligraphy](https://github.com/InflationX/Calligraphy) Custom fonts in Android the easy way...
 * [electron](https://github.com/electron/electron) 70K+ stars!!! Build cross-platform desktop apps with JavaScript, HTML, and CSS https://electronjs.org
 * [SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS) ZKEACMS for .Net Core (.Net Core CMS)可视化设计在线编辑内容管理系统 http://www.zkea.net/zkeacms/zkeacmscore
+* [老马说编程源代码](https://github.com/swiftma/program-logic)
+* [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+* [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
