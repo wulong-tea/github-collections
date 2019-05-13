@@ -133,6 +133,8 @@
 * [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [flutter-in-action](https://book.flutterchina.club/) 《Flutter实战》电子书
+* [Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师
+* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) Roadmap to becoming a Go developer in 2019
 
 ## 资源汇总类
 * [[伯乐在线]](https://github.com/jobbole)： [[Android 资源大全中文版]](https://github.com/jobbole/awesome-android-cn) [[Java资源大全中文版]](https://github.com/jobbole/awesome-java-cn) [[机器学习资源大全中文版]](https://github.com/jobbole/awesome-machine-learning-cn) [[Go 资源大全中文版]](https://github.com/jobbole/awesome-go-cn) [[Python资源大全中文版]](https://github.com/jobbole/awesome-python-cn)
@@ -165,3 +167,5 @@
 * [老马说编程源代码](https://github.com/swiftma/program-logic)
 * [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+* [内网穿透代理服务器](https://github.com/cnlh/nps) nps 是一款轻量级、高性能、功能强大的内网穿透代理服务器。目前支持 tcp、udp 流量转发，可支持任何 tcp、udp 上层协议（访问内网网站、本地支付接口调试、ssh 访问、远程桌面，内网 dns 解析等等……），此外还 支持内网 http 代理、内网 socks5 代理、 p2p 等，并带有功能强大的 web 管理端。
+* [linux-command: Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
