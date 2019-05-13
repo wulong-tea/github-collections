@@ -169,3 +169,4 @@
 * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 * [内网穿透代理服务器](https://github.com/cnlh/nps) nps 是一款轻量级、高性能、功能强大的内网穿透代理服务器。目前支持 tcp、udp 流量转发，可支持任何 tcp、udp 上层协议（访问内网网站、本地支付接口调试、ssh 访问、远程桌面，内网 dns 解析等等……），此外还 支持内网 http 代理、内网 socks5 代理、 p2p 等，并带有功能强大的 web 管理端。
 * [linux-command: Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+* [JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
