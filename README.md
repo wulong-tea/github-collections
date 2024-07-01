@@ -30,6 +30,7 @@
 * [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) A collection of free APIs
 
 ## 算法
+* [《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新](https://github.com/krahets/hello-algo)
 * [aosabook/500lines](https://github.com/aosabook/500lines) [(中文翻译计划)](https://github.com/HT524/500LineorLess_CN) 500行或更少的代码完成一个功能
 * [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) LeetCode of algorithms with java solution(updating).
 * [soulmachine/leetcode](https://github.com/soulmachine/leetcode) LeetCode题解，151道题完整版
