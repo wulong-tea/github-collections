@@ -41,3 +41,10 @@ function Component () {
   return <Dashboard uppy={uppy} plugins={['Webcam']} />
 }
 ```
+
+- [Photo-Sphere-Viewer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mistic100/Photo-Sphere-Viewer)：用于显示 360° 球体全景的 JavaScript 库。这是一个基于 Three.js 开发的全景照片查看器，提供了友好的交互和丰富的功能。它支持多种全景图格式和功能，包括 2:1 全景图、六面体全景图、全景图分片、显示文本、视频全景等。来自 [@wanzij](https://hellogithub.com/user/QkXB6ugmwMTqteF) 的分享
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/33748729.png' style="max-width:80%; max-height=80%;"></img></p>
+
+## CMS
+- [strapi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/strapi/strapi)：全球领先的开源无头 CMS。这是一款完全免费、采用 JavaScript/TypeScript 开发的无头内容管理系统。它拥有开箱即用的 API 和友好的管理面板，自带权限管理、默认安全、SEO 友好等特点。Strapi 作为目前 GitHub 上最流行的开源内容管理系统之一，已成为多家世界 500 强公司的首选 CMS。来自 [@greatYe](https://hellogithub.com/user/5YRq97xhZ1zyUme) 的分享
