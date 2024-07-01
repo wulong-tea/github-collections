@@ -82,3 +82,7 @@ const CommandMenu = () => {
 - [outline](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/outline/outline)：开源的文档和团队知识库管理工具。这是一款用 React 和 Node.js 开发的在线文档编辑和协作工具，它界面美观、功能丰富、兼容 Markdown 的特点，支持中文和 Docker 部署。此外，它还提供了 Windows、macOS、iOS 和 Android 客户端，可作为私人 wiki 或中小型公司的内部文档和知识库平台。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/97/59435364.png' style="max-width:80%; max-height=80%;"></img></p>
+
+- [focalboard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mattermost/focalboard)：开源的项目管理和团队协作工具。这是一款开源、多语言、自托管的项目管理工具，兼容了 Trello 和 Notion 的特点。它支持看板、表格和日历等视图管理任务，并提供评论同步、文件共享、用户权限等功能。该工具还提供了适用于 Windows、macOS、Linux 系统的客户端。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/96/301793434.jpg' style="max-width:80%; max-height=80%;"></img></p>
